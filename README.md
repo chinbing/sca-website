@@ -1,2 +1,1 @@
-# sca-website
- Website for SCA
+# chinbing.github.io
