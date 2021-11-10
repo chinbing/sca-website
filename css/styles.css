@@ -100,10 +100,10 @@ p {
 .title-line{
   width:10%;
 
-  background-color:#fa1616;
-  border-width:0;
-  height:5px;
+  border: 2px solid red;
   opacity: 100%;
+  margin-right:auto;
+  margin-left: auto;
 
   
 
@@ -131,21 +131,19 @@ p {
 }
 
 /*About us*/
+#about-us{
+  text-align: center;
+}
 #about-us p{
   font-size: 1.5rem;
 }
 
-/* About-us */
-
-.about-us-h2{
-  margin-bottom: 3rem;
-}
 
 /*Syllabus*/
-
-.syllabus-h2{
+#syllabus hr{
   margin-bottom: 3rem;
 }
+
 
 #syllabus row{
   margin-bottom: 1rem;
